@@ -1,3 +1,24 @@
+document.getElementById("2").style.opacity = 0;
+document.getElementById("-2").style.opacity = 0;
+document.getElementById("3").style.opacity = 0;
+document.getElementById("-3").style.opacity = 0;
+document.getElementById("4").style.opacity = 0;
+document.getElementById("-4").style.opacity = 0;
+document.getElementById("5").style.opacity = 0;
+document.getElementById("-5").style.opacity = 0;
+document.getElementById("6").style.opacity = 0;
+document.getElementById("-6").style.opacity = 0;
+document.getElementById("7").style.opacity = 0;
+document.getElementById("-7").style.opacity = 0;
+document.getElementById("8").style.opacity = 0;
+document.getElementById("-8").style.opacity = 0;
+document.getElementById("9").style.opacity = 0;
+document.getElementById("-9").style.opacity = 0;
+document.getElementById("10").style.opacity = 0;
+document.getElementById("11").style.opacity = 0;
+document.getElementById("12").style.opacity = 0;
+document.getElementById("13").style.opacity = 0;
+
 document.getElementById("1").style.color = "brown";
 document.getElementById("-1").style.color = "brown";
 document.getElementById("2").style.color = "BurlyWood";
@@ -21,26 +42,7 @@ document.getElementById("11").style.color = "yellow";
 document.getElementById("12").style.color = "green";
 document.getElementById("13").style.color = "green";
 
-document.getElementById("2").style.opacity = 0;
-document.getElementById("-2").style.opacity = 0;
-document.getElementById("3").style.opacity = 0;
-document.getElementById("-3").style.opacity = 0;
-document.getElementById("4").style.opacity = 0;
-document.getElementById("-4").style.opacity = 0;
-document.getElementById("5").style.opacity = 0;
-document.getElementById("-5").style.opacity = 0;
-document.getElementById("6").style.opacity = 0;
-document.getElementById("-6").style.opacity = 0;
-document.getElementById("7").style.opacity = 0;
-document.getElementById("-7").style.opacity = 0;
-document.getElementById("8").style.opacity = 0;
-document.getElementById("-8").style.opacity = 0;
-document.getElementById("9").style.opacity = 0;
-document.getElementById("-9").style.opacity = 0;
-document.getElementById("10").style.opacity = 0;
-document.getElementById("11").style.opacity = 0;
-document.getElementById("12").style.opacity = 0;
-document.getElementById("13").style.opacity = 0;
+
 
     jQuery(document).ready(function($) {
   function update() {
